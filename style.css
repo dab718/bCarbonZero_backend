@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+}
+.logoImage {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo {
+  text-align: center;
+}
+.button {
+  margin: 3rem;
+  text-align: right;
+}
+#signinbutton {
+  background-color: #663c379f;
+  text-decoration: none;
+  padding: 1.2rem 1.5rem;
+  color: #222;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 0.2rem solid rgb(146, 148, 147);
+}
+a {
+  text-decoration: none;
+  color: #222;
+}
+.userButton {
+  text-align: center;
+  margin: 3rem;
+  background-color: #663c379f;
+  padding: 1.2rem 1.5rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 0.2rem solid rgb(146, 148, 147);
+}
